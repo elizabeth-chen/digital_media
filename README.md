@@ -1,5 +1,4 @@
-# digital_media
-Digital Media Projects using TouchDesigner
+# Digital Media Projects using TouchDesigner
 
 Jellyfish
  > Time-based generative composition of a jellyfish. Movement and environment created using noise and particle motions.
